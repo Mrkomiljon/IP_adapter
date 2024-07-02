@@ -31,10 +31,21 @@ you can download models from here. To run the demo, you should also download the
 # Read image prompt
 ![abbb](https://github.com/Mrkomiljon/IP_adapter/assets/92161283/9c6c56a0-27f5-487c-a855-f8b16013c633)
 
+# Only image prompt
+<p float="center">
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/f04c96c8-485c-47bf-9711-08417fb7aa74" width="256" />
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/dedf3df7-7867-493f-81f4-1eb0ea4e2bc3" width="256" />
+</p>
+
+<p float="center">
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/2ed51b54-8671-4796-b59b-85759ea71f1f" width="256" />
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/0f0199b9-9fd3-42c1-8455-680963d635ce" width="256" />
+</p>
+
 # Prompt:
 ```Prompt
 [future car concept], no handle, lasers, holograms, [human avatars], city, no rearview mirrors, red carpet, [yellow plastic seats]
-```![abbb](https://github.com/Mrkomiljon/IP_adapter/assets/92161283/9c6c56a0-27f5-487c-a855-f8b16013c633)
+```
 
 <p float="left">
   <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/4f62ae7c-c240-4353-a9bf-7ea4316df6b1" width="256" />
@@ -45,6 +56,5 @@ you can download models from here. To run the demo, you should also download the
   <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/c3437cff-6711-4a20-b6f0-10132a9be76b" width="256" />
   <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/db7db0ff-9382-4156-9176-6c396ab96bf3" width="256" />
 </p>
-)
 
 
