@@ -27,3 +27,24 @@ you can download models from here. To run the demo, you should also download the
 [SG161222/Realistic_Vision_V4.0_noVAE](https://huggingface.co/SG161222/Realistic_Vision_V4.0_noVAE)
 
 [ControlNet models](https://huggingface.co/lllyasviel)
+
+# Read image prompt
+![abbb](https://github.com/Mrkomiljon/IP_adapter/assets/92161283/9c6c56a0-27f5-487c-a855-f8b16013c633)
+
+# Prompt:
+```Prompt
+[future car concept], no handle, lasers, holograms, [human avatars], city, no rearview mirrors, red carpet, [yellow plastic seats]
+```![abbb](https://github.com/Mrkomiljon/IP_adapter/assets/92161283/9c6c56a0-27f5-487c-a855-f8b16013c633)
+
+<p float="left">
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/4f62ae7c-c240-4353-a9bf-7ea4316df6b1" width="256" />
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/50efb257-8250-4f8b-b7a1-9c7473c16234" width="256" />
+</p>
+
+<p float="right">
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/c3437cff-6711-4a20-b6f0-10132a9be76b" width="256" />
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/db7db0ff-9382-4156-9176-6c396ab96bf3" width="256" />
+</p>
+)
+
+
