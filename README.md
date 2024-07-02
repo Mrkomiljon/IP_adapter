@@ -33,13 +33,13 @@ you can download models from here. To run the demo, you should also download the
 
 # Only image prompt
 <div align="center">
-  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/f04c96c8-485c-47bf-9711-08417fb7aa74" width="500" />
-  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/dedf3df7-7867-493f-81f4-1eb0ea4e2bc3" width="500" />
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/f04c96c8-485c-47bf-9711-08417fb7aa74" width="400" />
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/dedf3df7-7867-493f-81f4-1eb0ea4e2bc3" width="400" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/2ed51b54-8671-4796-b59b-85759ea71f1f" width="500" />
-  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/0f0199b9-9fd3-42c1-8455-680963d635ce" width="500" />
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/2ed51b54-8671-4796-b59b-85759ea71f1f" width="400" />
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/0f0199b9-9fd3-42c1-8455-680963d635ce" width="400" />
 </div>
 
 # Prompt:
@@ -48,8 +48,8 @@ you can download models from here. To run the demo, you should also download the
 ```
 
 <div align="center">
-  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/4f62ae7c-c240-4353-a9bf-7ea4316df6b1" width="500" />
-  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/50efb257-8250-4f8b-b7a1-9c7473c16234" width="500" />
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/4f62ae7c-c240-4353-a9bf-7ea4316df6b1" width="400" />
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/50efb257-8250-4f8b-b7a1-9c7473c16234" width="400" />
 </div>
 
 <div align="center">
