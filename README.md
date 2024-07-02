@@ -6,7 +6,7 @@ Effective and lightweight adapter to achieve image prompt capability for the pre
 pip install diffusers==0.22.1
 
 # install ip-adapter
-pip install git+https://github.com/Mrkomiljon/IP-Adapter.git
+git clone https://github.com/Mrkomiljon/IP_adapter.git
 
 # download the models
 cd IP-Adapter
