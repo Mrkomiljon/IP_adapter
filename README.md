@@ -53,8 +53,8 @@ you can download models from here. To run the demo, you should also download the
 </div>
 
 <div align="center">
-  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/c3437cff-6711-4a20-b6f0-10132a9be76b" width="500" />
-  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/db7db0ff-9382-4156-9176-6c396ab96bf3" width="500" />
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/c3437cff-6711-4a20-b6f0-10132a9be76b" width="400" />
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/db7db0ff-9382-4156-9176-6c396ab96bf3" width="400" />
 </div>
 
 
