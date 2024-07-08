@@ -57,4 +57,21 @@ you can download models from here. To run the demo, you should also download the
   <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/db7db0ff-9382-4156-9176-6c396ab96bf3" width="400" />
 </div>
 
+# Prompt
+
+```Prompt
+Generate an image of a futuristic Hyundai car model 10 years into the future, With the iconic 'H' symbol prominent and recognizable in the steering wheel',
+negative_prompt = monochrome, lowres, bad anatomy, worst quality, low quality
+```
+<div align="center">
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/51bc86fb-3c46-4f34-a493-29e2a83ffdce" width="400" />
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/daba2f9b-9917-4d54-8d8e-4dda1da465eb" width="400" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/b802602c-e213-4efa-a3c2-d8846d271cbf" width="400" />
+  <img src="https://github.com/Mrkomiljon/IP_adapter/assets/92161283/21300d9a-20ab-45c2-917d-6a769f1a53af" width="400" />
+</div>
+
+
 
